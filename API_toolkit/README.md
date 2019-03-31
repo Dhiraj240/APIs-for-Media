@@ -1,6 +1,6 @@
 # APIs-for-Media
 Developed the content generation via ```Django-RestAPI```
-![demo](\pictures\demo.gif)
+![demo](https://github.com/Dhiraj240/APIs-for-Media/blob/master/API_toolkit/pictures/demo.gif)
 
 Add ```requirements.txt``` using
 ```
