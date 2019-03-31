@@ -12,4 +12,15 @@ To change it use :
 cd API_toolkit
 python manage.py  createsuperuser
 ```
-Everything is provided in the gif,for media files i used 
+Everything is provided in the gif.
+
+# Execution in local Machine
+For this you need atleast ```django 1.11.6``` 
+
+
+```
+git clone https://github.com/Dhiraj240/APIs-for-Media.git
+cd APIs-for-Media
+cd API_toolkit
+python manage.py runserver
+```
